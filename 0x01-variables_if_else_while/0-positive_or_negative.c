@@ -3,9 +3,11 @@
 #include <time.h>
 
 /**
- * main -> assign a random number to the variable n each time it is executed and prints out
- * based a condition
- * Return : always 0
+ * main - Entry point
+ *
+ * Description: 'the program's description'
+ *
+ * Return: Always 0 (Success)
  */
 int main(void)
 {
