@@ -1,6 +1,5 @@
 #include <stdio.h>
-#include <stdlib.h>
-#include <time.h>
+
 /**
  * main - Entry point
  *
@@ -15,6 +14,6 @@ for (ch = 97 ; ch <= 122 ; ch++)
 {
 putchar(ch);
 }
-putchar("10"); /*this is the ascii code for a new line*/
+putchar(10); /*this is the ascii code for a new line*/
 return (0);
 }
