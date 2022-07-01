@@ -14,7 +14,7 @@ int ch;
 for (ch = 48 ; ch <= 58 ; ch++)
 {
 putchar(ch);
-if (ch != 58)
+if (ch != 57)
 {
 putchar(44);
 putchar(32);
