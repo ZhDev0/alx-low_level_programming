@@ -18,10 +18,6 @@ if (ch != 'q' && ch != 'e')
 putchar(ch);
 }
 }
-for (ch = 65 ; ch <= 90 ; ch++)
-{
-putchar(ch);
-}
 putchar(10); /*this is the ascii code for a new line*/
 return (0);
 }
