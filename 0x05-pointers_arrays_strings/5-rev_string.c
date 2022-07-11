@@ -15,7 +15,7 @@ length1 = 0;
 length2 = 0;
 
 while (s[length1] != '\0')
-	lenght1++;
+	length1++;
 length2 = length1 -1;
 for (i = 0 ; i < length1 ; i++)
 {
