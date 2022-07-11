@@ -23,5 +23,5 @@ tmp = s[i];
 s[i] = s[length2];
 s[length2] = tmp;
 length2 -= 1;
-i}
+}
 }
