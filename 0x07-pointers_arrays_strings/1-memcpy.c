@@ -15,5 +15,7 @@ unsigned int a;
 
 for (a = 0 ; a < n ; a++)
 	dest[a] = src[a];
+
 return (dest);
+
 }
