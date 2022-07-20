@@ -3,6 +3,7 @@
 int check_prime(int, int);
 /**
  * is_prime_number -> prime identifier
+ * @n: number
  */
 
 int is_prime_number(int n)
