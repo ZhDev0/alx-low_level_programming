@@ -29,6 +29,6 @@ if (square > n)
 	return (-1);
 if (square == n)
 	return (i);
-return (_sqrt(n, i + 1));I[I
+return (_sqrt(n, i + 1));
 
 }
